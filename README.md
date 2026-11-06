@@ -42,6 +42,6 @@ Usatele, cambiatele. Se manca una domanda, aggiungetela.
  
 ---
  
-Daniele @fupete Tabellini, personal capacity / a titolo personale. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+© 2026 Daniele @fupete Tabellini, personal capacity / a titolo personale. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
  
