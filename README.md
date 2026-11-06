@@ -17,6 +17,7 @@ Use them, change them. If a question is missing, add it.
 7. Did the machine help you, or did it hand you plausible answers by the kilo?
 8. What does someone who didn't design it do with it?
 9. Will whoever comes next find the code, your choices, and the why? What does it cost to keep it alive?
+
 *Making choices is design. Making things better is design.*
  
 ---
@@ -38,6 +39,8 @@ Usatele, cambiatele. Se manca una domanda, aggiungetela.
 7. La macchina vi ha aiutato, o vi ha consegnato risposte plausibili un tanto al chilo?
 8. Cosa ne fa chi non l'ha progettato?
 9. Chi viene dopo trova il codice, le vostre scelte e il perché? Quanto costa tenerlo vivo?
+
+
 *Fare scelte è design. Migliorare le cose è design.*
  
 ---
