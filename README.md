@@ -18,7 +18,7 @@ Use them, change them. If a question is missing, add it.
 8. What does someone who didn't design it do with it?
 9. Will whoever comes next find the code, your choices, and the why? What does it cost to keep it alive?
 
-*Making choices is design. Making things better is design.*
+> *Making choices is design. Making things better is design.*
  
 ---
  
@@ -41,10 +41,10 @@ Usatele, cambiatele. Se manca una domanda, aggiungetela.
 9. Chi viene dopo trova il codice, le vostre scelte e il perché? Quanto costa tenerlo vivo?
 
 
-*Fare scelte è design. Migliorare le cose è design.*
+> *Fare scelte è design. Migliorare le cose è design.*
  
 ---
  
-© 2026 Daniele @fupete Tabellini, personal capacity / a titolo personale. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+© 2026 Daniele Tabellini ([@fupete](https://github.com/fupete)), in a personal capacity / a titolo personale. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · [danieletabellini.com](https://danieletabellini.com)
 
  
